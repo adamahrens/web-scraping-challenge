@@ -1,6 +1,5 @@
 import datetime as dt
 import numpy as np
-import pandas as pd
 import sqlalchemy
 import scrape_mars
 from flask import Flask, render_template, redirect
